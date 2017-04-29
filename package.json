@@ -1,0 +1,24 @@
+{
+  "name": "koala",
+  "version": "1.0.0",
+  "description": "Web App -  input pet + owner info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jblue96/pets.git"
+  },
+  "author": "Jorge Blue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jblue96/pets/issues"
+  },
+  "homepage": "https://github.com/Jblue96/pets#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
